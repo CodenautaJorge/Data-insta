@@ -1,0 +1,15 @@
+{
+  "name": "data_insta",
+  "version": "1.0.0",
+  "description": "app para compartir historias",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nedb": "^1.8.0"
+  }
+}
